@@ -12,7 +12,7 @@ a_map est un script Lua pour les serveurs FiveM (CFX) qui offre une gestion simp
 ## Liens Utiles
 - **Discord :** [Rejoignez-nous](https://discord.gg/KQDcjZGxtq)
 - **Site Web :** [Visitez notre site](https://a-dev.fr)
-- **Boutique Tebex :** [Notre boutique](https://discord.gg/KQDcjZGxtq)
+- **Boutique Tebex :** [Notre boutique](https://a-dev-bat.tebex.io)
 - **GitHub :** [a_map sur GitHub](https://github.com/abject1/a_map)
 
 ## Installation

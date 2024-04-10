@@ -8,6 +8,8 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
+lua54 'yes'
+
 author 'a_dev.bat | Many'
 description 'Script qui vous permet de gerer la visibiliter de votre map sur votre server'
 discord 'https://discord.gg/KQDcjZGxtq'
